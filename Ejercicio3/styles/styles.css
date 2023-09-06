@@ -1,0 +1,27 @@
+.Tiktok{background-color: #010101;}
+.Tiktok h1{color: #FFFFFF;background-color: #ee1d52;}
+.Tiktok p{color: #69c9d0;}
+.Tiktok h4{color: #69c9d0;}
+.Tiktok ul{color: #69c9d0;}
+img{height: 100px; width: 100px;}
+
+.Instagram{background-color: #F56040;}
+.Instagram h1{background-color: #c13584; color: white;}
+.Instagram p{color: #4d1274;}
+.Instagram h4{color: #4d1274;}
+.Instagram ul{color: #4d1274;}
+
+.Facebook{background-color: #1778f2;}
+.Facebook h1{color: white;}
+.Facebook p{color: white;}
+.Facebook ul{color: white;}
+
+.Whatsapp{background-color: #25D366;}
+.Whatsapp h1{color: #23452e;}
+.Whatsapp p, h4{color: white;}
+.Whatsapp ul{color: white;}
+
+.Telegram{background-color: #17aaf3;}
+.Telegram h1{color: white;}
+.Telegram p{color: white;}
+.Telegram ul{color: white;}
